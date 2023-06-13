@@ -1,0 +1,32 @@
+hi i opened this with the hidden batch
+
+June 12, 2023 - 2:00pm
+figured out I can use 'system("powershell -command \"wget -O <file> <url>\"",ret)' to bypass the schools restriction on cmd.exe by running the command in powershell.exe instead. apparently the IT guy lacks knowledge of powershells existence.
+
+June 12, 2023 - 7:00pm
+tried making binary-plaintext conversion to use as obfuscation but decided that was a lot of work that i didn't wanna do
+
+June 12, 2023 - 8:00pm
+settled for random variable, procedure, and filenames for obfuscation because it was far easier and needed no extra work to start doing. made use of 'include <fileName>' to make reading the code more confusing and time consuming.
+also named some procedures things that would make it look like a tic tac toe game to mask it a bit
+
+June 12, 2023 - 8:20pm
+felt really unorganized and completely restarted cus why not
+
+June 12, 2023 - 8:30pm
+stole some random tictactoe off google
+http://compsci.ca/v3/viewtopic.php?t=31223
+
+June 12, 2023 - 8:40pm
+using fake image files to contain turing procedures used to rename the files and run them
+thought about bloating the files with ﷽ characters but didn't see a point as i'm not actively trying to hide the malware
+
+June 12, 2023 - 8:50pm
+while writing a password stealer i realized this is a school project and the school computers have very limited permissions so i've decided i'm just making an example malware instead. harmless but shows the potential damage
+
+June 12, 2023 - 9:00pm
+wrote these github pages to document everything
+
+lesson learnt is that everything can be malware. instead of opening links, and invisible powershell being used to download a .txt file i could have made something far more malicious
+
+100% pls mr bennet!
