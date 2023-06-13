@@ -1,0 +1,13 @@
+hi i opened this with the turing
+
+implemented:
+custom obfusctation
+fake game
+download files
+open browser
+open files
+
+planned (if i continue):
+random file copy and rename locations (was going to do this but its quite a bit of work that i don't really feel like doing)
+actually add pictures in the tic tac toe so it doesn't seem sketchy
+bloat the fake images to look like they are actually images, easily done but didn't want to destroy school computers when trying to access the files.
