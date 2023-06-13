@@ -1,4 +1,4 @@
-hi i opened this with the hidden batch
+hi i opened this using a hidden batch file
 
 June 12, 2023 - 2:00pm
 figured out I can use 'system("powershell -command \"wget -O <file> <url>\"",ret)' to bypass the schools restriction on cmd.exe by running the command in powershell.exe instead. apparently the IT guy lacks knowledge of powershells existence.
